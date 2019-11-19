@@ -1,0 +1,131 @@
+body{
+    text-align: center;
+    background-color: #4C4E61;
+    font-size: 15px;
+    font-family: Poppins;
+}
+
+p{
+    font-weight: 200;
+    color: #A3A5AE;
+}
+
+
+
+.top-container{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1;
+}
+
+.top-container-p{
+    width: 500px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.team-builder-container{
+    width: 270px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    right: 530px;
+    border-top: 5px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #EA5353;
+    border-radius: 3%;
+    text-align: left;
+    padding-left: 15px;
+
+
+}
+
+.supervisor-container{
+    width: 270px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    right: 840px;
+    top: 380px;
+    border-top: 5px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #45D3D3;
+    border-radius: 3%;
+    text-align: left;
+    padding-left: 15px;
+
+}
+
+.karma-container{
+    width: 270px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 480px;
+    right: 530px;
+    border-top: 5px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #FCAF4A;
+    border-radius: 3%;
+    text-align: left;
+    padding-left: 15px;
+    margin-bottom: 50px;
+
+}
+
+.calculator-container{
+    width: 270px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 850px;
+    top: 380px;
+    border-top: 5px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #549EF2;
+    border-radius: 3%;
+    text-align: left;
+    padding-left: 15px;
+
+
+}
+
+.team-builder-pic{
+    float: right;
+    margin: 20px;
+}
+
+.Supervisor-pic{
+    float: right;
+    margin: 20px;
+}
+
+.Karma-pic{
+    float: right;
+    margin: 20px;
+}
+
+.calculator-pic{
+    float: right;
+    margin: 20px;
+}
+
+.top-container-h1a{
+    font-weight: 400;
+}
+
+.top-container-h1b{
+    font-weight: 600;
+}
